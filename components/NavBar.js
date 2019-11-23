@@ -14,7 +14,7 @@ const TabNavigator = createBottomTabNavigator ({
         tabBarIcon: ({ tintColor }) => (
           <Image
             source={require("../assets/house.png")}
-            style={{ width: 50, height: 50, tintColor: black }}
+            style={{ width: 50, height: 50, tintColor: tintColor }}
           />
       )
     }
@@ -26,7 +26,7 @@ const TabNavigator = createBottomTabNavigator ({
         tabBarIcon: ({ tintColor }) => (
           <Image
             source={require("../assets/contract.png")}
-            style={{ width: 50, height: 50, tintColor: black}}
+            style={{ width: 50, height: 50, tintColor: tintColor }}
           />
       )
     }
