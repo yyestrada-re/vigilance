@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "864844072259",
+    "firebase_url": "https://vigilance-fc1bc.firebaseio.com",
+    "project_id": "vigilance-fc1bc",
+    "storage_bucket": "vigilance-fc1bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864844072259:android:391a76f37714c5a3f05bf6",
+        "android_client_info": {
+          "package_name": "com.vigilance.vigilance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864844072259-nvma6id2f7s4dmbneeegvhrud9jfkqp8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vigilance.vigilance",
+            "certificate_hash": "dfe1f0c8735037b4369fa1229a88dd0c17bb28d2"
+          }
+        },
+        {
+          "client_id": "864844072259-d82da6srvu4dpud7p03hqtikpe8kc5kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA3jWnKiUXFQnRN8D4fkc3yRiwf0Amna8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864844072259-d82da6srvu4dpud7p03hqtikpe8kc5kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

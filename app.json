@@ -4,6 +4,11 @@
     "slug": "vigilance",
     "privacy": "public",
     "sdkVersion": "35.0.0",
+    "android": {
+      "package": "com.vigilance.vigilance",
+      "config": {
+        "googleMaps": { "apiKey": "AIzaSyB2ovhsg0gOFIFGveurfI99k9wBpOrGV-4" }}
+    },
     "platforms": [
       "ios",
       "android",
@@ -25,6 +30,6 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
   }
 }
